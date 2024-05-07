@@ -1,0 +1,33 @@
+_repo: The-poetic-Edda-b-Translated-from-the-Icelandic-with-an-Introduction-and-notes_73533
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Saemund
+    gutenberg_agent_id: '57110'
+    url: http://www.gutenberg.org/2009/agents/57110
+  editor:
+    agent_name: Bellows, Henry Adams
+    gutenberg_agent_id: '57109'
+    url: http://www.gutenberg.org/2009/agents/57109
+description: ''
+gutenberg_issued: '2024-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73533'
+language: en
+pgterms:marc904: https://archive.org/details/poeticedda00belluoft/page/n7
+pgterms:marc905: 20190123122933bellows
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by The Internet Archive/Canadian Libraries)
+publication_note: '  $aNew York :$bThe American-Scandinavian Foundation, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The poetic Edda : $b Translated from the Icelandic with an Introduction and
+  notes'
+url: http://www.gutenberg.org/ebooks/73533
